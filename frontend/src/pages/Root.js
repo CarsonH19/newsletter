@@ -1,4 +1,4 @@
-import MainNavigation from "../src/components/MainNavigation";
+import MainNavigation from "../components/MainNavigation";
 import { Outlet } from "react-router-dom";
 
 function RootLayout() {
